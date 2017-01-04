@@ -5,7 +5,7 @@ Describe as thoroughly as possible what you want accomplished, including the OS 
 
 At this point, I am only confident with the following languages:
 
-### Windows:
+##### Windows:
 
 Programming languages:
 
@@ -20,7 +20,7 @@ Scripting Languages:
 - AutoIt v3
 
 
-### Web
+##### Web
 
 - HTML5
 - PHP
